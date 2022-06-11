@@ -7,7 +7,7 @@
 Updated the Horiseon version to make CSS/HTML easier to read. I changed the class names and deleted redundant CSS classes/IDs. I also organizes CSS a little better to match the website & HTML and added comments. 
 
 
-
+![](/images/My%20Screenshot%20.png)
 
 
 
